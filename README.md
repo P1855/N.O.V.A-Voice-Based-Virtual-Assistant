@@ -1,5 +1,6 @@
 # **N.O.V.A : Voice-Based Virtual Assistant**
-N.O.V.A, the voice-based virtual assistant,whose call name is **'Grapefruit'** combines NLP concepts with full-stack development. Its front end uses HTML, CSS, and JavaScript, while the Python-based backend handles logic and data processing. Nova’s customizable skills empower users to interact seamlessly through natural language commands. 
+N.O.V.A. is a web-based virtual assistant utilizing NLP for natural language interaction. The HTML/CSS/JS frontend facilitates user interaction, while the Python backend handles logic and data processing. Designed for extensibility, N.O.V.A. removes the need for complex interfaces by enabling customizable command-based actions. NLP allows users to interact freely with plain language commands, eliminating predefined syntax. This project offers a scalable framework for personalized deployments, functioning as a foundation for future virtual assistant applications.
+
 
 ## CONTENTS
 
