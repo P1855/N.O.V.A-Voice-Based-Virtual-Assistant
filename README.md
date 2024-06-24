@@ -41,7 +41,7 @@ This batch script disconnects old ADB connections, sets up a connected device fo
 
 - **YouTube Integration** : Enjoy your favorite videos on YouTube without lifting a finger. Simply tell N.O.V.A what you want to watch, and it will handle the rest.
 
-- **Hotword Detection** : Using advanced hotword detection technology, N.O.V.A listens for the call name "grapefruit" and springs into action, ready to assist you at a moment's notice.
+- **Hotword Detection** : Using advanced hotword detection technology, N.O.V.A listens for the call name "**grapefruit**" and springs into action, ready to assist you at a moment's notice.
 
 
 https://github.com/P1855/N.O.V.A-Voice-Based-Virtual-Assistant/assets/98693127/8d6fe2b5-f2b2-4cd0-861c-223824becb72
