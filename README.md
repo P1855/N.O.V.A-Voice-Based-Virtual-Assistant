@@ -1,7 +1,7 @@
-# N.O.V.A : Voice-Based Virtual Assistant
+# **N.O.V.A : Voice-Based Virtual Assistant**
 N.O.V.A, the voice-based virtual assistant,whose call name is **'Grapefruit'** combines NLP concepts with full-stack development. Its front end uses HTML, CSS, and JavaScript, while the Python-based backend handles logic and data processing. Nova’s customizable skills empower users to interact seamlessly through natural language commands. 
 
-## Contents
+## CONTENTS
 
 ### -> front ( frontend )
 
@@ -32,16 +32,35 @@ This Python file uses multiprocessing to run two parallel processes: starting th
 This batch script disconnects old ADB connections, sets up a connected device for ADB over Wi-Fi, and connects to it. This file is used for connecting smartphone with the user device (desktop ) .
 
 
-## Demonstation of the project 
+## FEATURES OF N.O.V.A 
 
+
+- **Voice Commands** : Activate N.O.V.A with a simple hotword and let it handle your commands effortlessly. Whether it's opening applications, playing YouTube videos, or searching the web, N.O.V.A's voice recognition ensures seamless interaction.
+
+- **Application Management** : Easily open any installed application or website by just mentioning its name. N.O.V.A can find and launch programs from a pre-defined list or even try to open unknown commands, making it incredibly versatile.
+
+- **YouTube Integration** : Enjoy your favorite videos on YouTube without lifting a finger. Simply tell N.O.V.A what you want to watch, and it will handle the rest.
+
+- **Hotword Detection** : Using advanced hotword detection technology, N.O.V.A listens for the call name "grapefruit" and springs into action, ready to assist you at a moment's notice.
 
 
 https://github.com/P1855/N.O.V.A-Voice-Based-Virtual-Assistant/assets/98693127/8d6fe2b5-f2b2-4cd0-861c-223824becb72
 
 
 
+- **Contact Management** : Find contacts and initiate phone calls or send messages effortlessly. N.O.V.A can search your contacts database and execute communication commands with ease.
+
+- **WhatsApp Automation** : Send messages, make calls, or start video calls on WhatsApp through simple voice commands. N.O.V.A encodes and sends your messages, ensuring efficient and accurate communication.
+
+- **Android Integration** : Automate tasks on your Android device, such as making calls or sending messages, directly from your assistant. N.O.V.A uses ADB commands to control your device and perform tasks hands-free.
+
 
 https://github.com/P1855/N.O.V.A-Voice-Based-Virtual-Assistant/assets/98693127/a160cdd8-6551-4952-b7f9-7dc2476e4655
+
+
+- **Conversational AI** : Engage in natural conversations with N.O.V.A's chatbot capabilities powered by Hugging Face's HugChat. Get responses to your queries, making interactions with N.O.V.A more human-like and intuitive.
+
+- **Customizable Responses** : Enjoy a personalized experience as N.O.V.A speaks to you with a friendly voice, providing feedback and confirming actions, ensuring you are always in control.
 
 
 
