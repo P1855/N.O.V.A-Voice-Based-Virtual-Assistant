@@ -16,8 +16,24 @@ N.O.V.A, the voice-based virtual assistant,whose call name is **'Grapefruit'** c
 1. **`command.py`** - This file integrates text-to-speech and speech recognition with Eel for a web-based assistant. It processes voice commands, executes predefined tasks like opening applications or sending messages, and communicates with a web interface to display messages and receive input.
 2. **`config.py`** - This file contains the ASSISTANT_NAME.
 3. **`db.py`** - This Python file sets up an SQLite database with tables for system commands, web commands, and contacts. It includes commented-out code for inserting data and importing contacts from a CSV file into the database.
-4. **`features.py`** - This file defines functions for a voice assistant, integrating SQLite for command lookup, playing YouTube videos, detecting hotwords, managing contacts, sending WhatsApp messages, initiating phone calls, and chatbot interactions using Hugging Face's HugChat API.
-5. **`helper.py`** - This file containes functions which whill help in initiating other file 
+4. **`features.py`** - This file defines functions for a voice assistant, integrating SQLite for command lookup, playing YouTube videos, detecting hotwords, managing contacts, sending WhatsApp messages, initiating phone calls, and chatbot interactions using Hugging Face's HugChat API. This file also contains the hotword function which will the the hotword from the user's microphone and initiate the mic of the assistant. 
+5. **`helper.py`** - This file containes functions which whill help in initiating other file
+
+### -> `main.py` 
+
+This Python file initializes the Eel web server, plays an assistant sound, and opens the web interface in *Microsoft Edge*.
+
+### -> `run.py` 
+
+This Python file uses multiprocessing to run two parallel processes: starting the Nova assistant and listening for a hotword activation.
+
+### -> `device.bat`
+
+This batch script disconnects old ADB connections, sets up a connected device for ADB over Wi-Fi, and connects to it. This file is used for connecting smartphone with the user device (desktop ) .
+
+
+## Demonstation of the project 
+
 
 
 https://github.com/P1855/N.O.V.A-Voice-Based-Virtual-Assistant/assets/98693127/8d6fe2b5-f2b2-4cd0-861c-223824becb72
